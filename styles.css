@@ -1,0 +1,48 @@
+.navi{
+    border-style: none;
+    width: 50%;
+    padding: 0%;
+    list-style: none;
+    margin-left: 25%;
+    margin-right: auto;
+    margin-top: 1%;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color:burlywood;
+    border-radius: 10%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: all 0.25s ease;
+}
+a:hover{
+    background-color: antiquewhite;
+    transition: all .25s ease;
+}
+li{
+    display: inline-block;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+img{
+    
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    border-radius: 5px;
+
+    width: 300px; 
+    height: auto;
+
+}
+body{
+    background-color: antiquewhite;
+}
